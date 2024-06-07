@@ -7,9 +7,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumit-thakur-08&label=Profile%20views&color=0e75b6&style=flat" alt="sumit-thakur-08" /> </p>
 
+- 🎓BCA student with a passion for IT
 - 🌱 I’m currently learning **MERN FUll-STACK**
-
-- ⚡ Fun fact **I Think , I am Funny 😇👻**
+- 🤖Interests into learning Artificial Intelligence
+- - ⚡ Fun fact **I Think , I am Funny 😇👻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
