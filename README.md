@@ -1,4 +1,4 @@
-![logo](https://github.com/sumit-thakur-08/sumit-thakur-08/blob/main/background.jpg)
+![logo](https://github.com/sumit-thakur-08/sumit-thakur-08/blob/main/background-1.webp)
 <h1 align="center">Hi 👋, I'm Sumit Thakur</h1>
 <h3 align="center">A good programmer is someone who always looks both ways before crossing a one-way street</h3>
 
